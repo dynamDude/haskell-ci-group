@@ -12,8 +12,8 @@ knowledge with the community.
 
 ## Joining the Group
 
-Contact bryan@haskell.foundation for an invite! The next meeting is on December
-14, 2023, at 6:00 and 12:00 UTC (subject to change as needed).
+Contact bryan@haskell.foundation for an invite! The next meeting is on May
+16, 2023, at _:__ and __:__ UTC (subject to change as needed).
 
 Want to help develop the group itself? PRs to this repo are also welcome!
 
